@@ -48,7 +48,7 @@ function Login() {
                 onChange={(e)=>setVacancie(e.target.value)} 
               />
             </label>
-            <button className='btn btn-primary' onClick={()=>setShowProfile(true)}>Entrar</button>  
+            <button className='btn btn-primary' onClick={()=>setShowProfile(true)}>Enviar</button>  
           </form>
         </div>
       </section>
